@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+
+[data-theme='dark'] {
+  --my-color: #000;
+}
+[data-theme='pink'] {
+  --my-color: #f55c92;
+  
+}
